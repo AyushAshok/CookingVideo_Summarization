@@ -8,5 +8,8 @@ FFMPEG should be installed for Whsiper AI to run properly.
 If using Linux, can download triton for better gpu-acceleration.
 
 
+# Working
+## 1) audio_text_both.py
+
 
 
