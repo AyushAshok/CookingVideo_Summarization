@@ -10,7 +10,7 @@ If using Linux, can download triton for better gpu-acceleration.
 
 # Working
 ## 1) audio_text_both.py
-i) First part extracts the audio and stores it in a folder.
+i) First part extracts the audio and stores it in a folder.\n
 ii) The next part uses Whisper Ai to get the words spoken and their time stamps.
 iii) Before storing these words in a .csv file with timestamps, the bow file is called to check if the word is present in the bag of words. If yes, the word is added to the csv else no.
 
